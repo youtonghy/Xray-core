@@ -4,6 +4,7 @@ go 1.27
 
 require (
 	github.com/apernet/quic-go v0.61.1-0.20260806010916-184d081eef3e
+	github.com/cloudflare/circl v1.6.5
 	github.com/ghodss/yaml v1.0.1-0.20220118164431-d8423dcdf344
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/google/go-cmp v0.7.0
@@ -21,7 +22,7 @@ require (
 	github.com/stretchr/testify v1.12.1
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
 	github.com/vishvananda/netlink v1.3.1
-	github.com/xtls/reality v0.0.0-20261014101318-83f621788ca8
+	github.com/xtls/reality v0.0.0-20260908045812-e1986a4d31ca
 	github.com/yuin/gopher-lua v1.1.2
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/crypto v0.58.0
